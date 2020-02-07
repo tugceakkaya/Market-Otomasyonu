@@ -16,7 +16,7 @@ namespace SiparisOtomasyonu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Satis());
+            Application.Run(new StokDurum());
         }
     }
 }

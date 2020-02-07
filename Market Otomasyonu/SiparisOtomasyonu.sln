@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisOtomasyonu", "SiparisOtomasyonu\SiparisOtomasyonu.csproj", "{A7A76C4F-F33E-433D-915B-733A19697A02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisOtomasyonu.DAL", "SiparisOtomasyonu.DAL\SiparisOtomasyonu.DAL.csproj", "{2B19A252-DB77-441F-99E8-361DC12203AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiparisOtomasyonu.BLL", "SiparisOtomasyonu.BLL\SiparisOtomasyonu.BLL.csproj", "{560634A6-F0F3-46AD-A536-06FB0983CD5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A7A76C4F-F33E-433D-915B-733A19697A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7A76C4F-F33E-433D-915B-733A19697A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7A76C4F-F33E-433D-915B-733A19697A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B19A252-DB77-441F-99E8-361DC12203AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B19A252-DB77-441F-99E8-361DC12203AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B19A252-DB77-441F-99E8-361DC12203AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B19A252-DB77-441F-99E8-361DC12203AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560634A6-F0F3-46AD-A536-06FB0983CD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560634A6-F0F3-46AD-A536-06FB0983CD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560634A6-F0F3-46AD-A536-06FB0983CD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560634A6-F0F3-46AD-A536-06FB0983CD5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

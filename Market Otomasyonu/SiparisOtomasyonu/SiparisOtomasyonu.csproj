@@ -106,5 +106,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SiparisOtomasyonu.BLL\SiparisOtomasyonu.BLL.csproj">
+      <Project>{560634a6-f0f3-46ad-a536-06fb0983cd5e}</Project>
+      <Name>SiparisOtomasyonu.BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

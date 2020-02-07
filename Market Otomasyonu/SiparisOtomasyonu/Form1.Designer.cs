@@ -117,7 +117,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.button1);
             this.Name = "Giriş";
-            this.Text = " b";
+            this.Text = " Giriş";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
